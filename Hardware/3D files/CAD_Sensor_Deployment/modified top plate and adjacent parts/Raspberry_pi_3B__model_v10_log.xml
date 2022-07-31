@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--UGC_VERSION = 1024-->
+<XML_DOCUMENT xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <PTC_HEADER>
+        <VENDOR>Parametric Technology Corporation</VENDOR>
+        <PRODUCT>Creo Parametric 3502018020</PRODUCT>
+        <XML_VERSION>1.0</XML_VERSION>
+        <HOST_NAME>COMECH-R-NIKOS1</HOST_NAME>
+        <USER>SRC2</USER>
+        <MACHINE_TYPE> Intel64 Family 6 Model 158 Stepping 10  GenuineIntel  3192 MHz</MACHINE_TYPE>
+    </PTC_HEADER>
+    <item item_type="4" pointer="TRUE" tag="SUMMARY OF IMPORT PROCESSING">
+        <name pointer="TRUE" type="9">
+            <value__PO__ws_val__PC__>Summary of Import Processing</value__PO__ws_val__PC__>
+        </name>
+        <item__PO__item_set__PC__ pointer="TRUE" tag="NULL">
+            <name>NULL</name>
+            <items SOAP-ENC:Array="[12]">
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>General information</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Interface type:</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>File name:</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\src2\Documents\MagDrone\CAD\modified top plate and adjacent parts\Raspberry pi 3B+ model v10.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Model name:</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>RASPBERRY_PI_3B_MODEL_V10</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="1" pointer="TRUE" tag="NULL">
+                    <name>NULL</name>
+                    <item__PO__attr__PC__ pointer="TRUE" tag="Reading began at:">
+                        <name pointer="TRUE" type="9">
+                            <value__PO__ws_val__PC__>Reading began at:</value__PO__ws_val__PC__>
+                        </name>
+                        <value pointer="TRUE" type="14">
+                            <value__PO__pt_val__PC__ tm_hour="12" tm_mday="4" tm_min="29" tm_mon="2" tm_sec="56" tm_year="120"/>
+                        </value>
+                    </item__PO__attr__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Native header">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Native header</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[10]">
+                            <attrs_ENTRY pointer="TRUE" tag="File Description">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>File Description</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__/>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Implementation level">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Implementation level</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>2;1</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Name</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__>C:/Users/puppe/OneDrive/Desktop/Raspberry pi 3B+ model v10.step</value__PO__cs_val__PC__>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Time Stamp">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Time Stamp</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__>2019-09-05T17:30:43-05:00</value__PO__cs_val__PC__>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Author">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Author</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__/>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Organization">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Organization</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__/>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Preprocessor Version">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Preprocessor Version</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__>ST-DEVELOPER v18</value__PO__cs_val__PC__>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Originating System">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Originating System</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__>Autodesk Translation Framework v8.6.0.1094</value__PO__cs_val__PC__>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Authorization">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Authorization</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__/>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File Schema">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>File Schema</value__PO__ws_val__PC__>
+                                </name>
+                                <value>NULL</value>
+                                <values SOAP-ENC:Array="[1]">
+                                    <values_ENTRY pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__>AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }</value__PO__cs_val__PC__>
+                                    </values_ENTRY>
+                                </values>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Read entries">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Read entries</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[63]">
+                            <attrs_ENTRY pointer="TRUE" tag="ADVANCED_BREP_SHAPE_REPRESENTATION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>ADVANCED_BREP_SHAPE_REPRESENTATION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="ADVANCED_FACE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1136</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="APPLICATION_CONTEXT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>APPLICATION_CONTEXT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="APPLICATION_PROTOCOL_DEFINITION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>APPLICATION_PROTOCOL_DEFINITION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="AXIS2_PLACEMENT_3D">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>AXIS2_PLACEMENT_3D</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>562</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="B_SPLINE_CURVE_WITH_KNOTS">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>B_SPLINE_CURVE_WITH_KNOTS</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1194</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="B_SPLINE_SURFACE_WITH_KNOTS">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>B_SPLINE_SURFACE_WITH_KNOTS</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>597</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="CARTESIAN_POINT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>CARTESIAN_POINT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>16507</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="CIRCLE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>CIRCLE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>22</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="CLOSED_SHELL">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>CLOSED_SHELL</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="COLOUR_RGB">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>COLOUR_RGB</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="CYLINDRICAL_SURFACE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>CYLINDRICAL_SURFACE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>9</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="DERIVED_UNIT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>DERIVED_UNIT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="DERIVED_UNIT_ELEMENT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>DERIVED_UNIT_ELEMENT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="DESCRIPTIVE_REPRESENTATION_ITEM">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>DESCRIPTIVE_REPRESENTATION_ITEM</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="DIRECTION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>DIRECTION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>3043</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="EDGE_CURVE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>EDGE_CURVE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>3135</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="EDGE_LOOP">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>EDGE_LOOP</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1229</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="FACE_BOUND">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>FACE_BOUND</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>93</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="FACE_OUTER_BOUND">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>FACE_OUTER_BOUND</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1136</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="FILE_DESCRIPTION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>FILE_DESCRIPTION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="FILE_NAME">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>FILE_NAME</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="FILE_SCHEMA">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>FILE_SCHEMA</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="FILL_AREA_STYLE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>FILL_AREA_STYLE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="FILL_AREA_STYLE_COLOUR">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>FILL_AREA_STYLE_COLOUR</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="GEOMETRIC_REPRESENTATION_CONTEXT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>GEOMETRIC_REPRESENTATION_CONTEXT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="GLOBAL_UNIT_ASSIGNED_CONTEXT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>GLOBAL_UNIT_ASSIGNED_CONTEXT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="LENGTH_UNIT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>LENGTH_UNIT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="LINE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1919</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="MANIFOLD_SOLID_BREP">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>MANIFOLD_SOLID_BREP</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="MASS_UNIT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>MASS_UNIT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="MEASURE_REPRESENTATION_ITEM">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>MEASURE_REPRESENTATION_ITEM</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="NAMED_UNIT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>NAMED_UNIT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="ORIENTED_EDGE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>ORIENTED_EDGE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>6270</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PLANE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>530</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PLANE_ANGLE_UNIT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PLANE_ANGLE_UNIT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PRESENTATION_STYLE_ASSIGNMENT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PRESENTATION_STYLE_ASSIGNMENT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PRODUCT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PRODUCT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PRODUCT_CONTEXT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PRODUCT_CONTEXT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PRODUCT_DEFINITION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PRODUCT_DEFINITION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PRODUCT_DEFINITION_CONTEXT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PRODUCT_DEFINITION_CONTEXT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PRODUCT_DEFINITION_FORMATION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PRODUCT_DEFINITION_FORMATION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PRODUCT_DEFINITION_SHAPE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PRODUCT_DEFINITION_SHAPE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PRODUCT_RELATED_PRODUCT_CATEGORY">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PRODUCT_RELATED_PRODUCT_CATEGORY</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PROPERTY_DEFINITION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PROPERTY_DEFINITION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="PROPERTY_DEFINITION_REPRESENTATION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>PROPERTY_DEFINITION_REPRESENTATION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="REPRESENTATION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>REPRESENTATION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="REPRESENTATION_CONTEXT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>REPRESENTATION_CONTEXT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="SHAPE_DEFINITION_REPRESENTATION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>SHAPE_DEFINITION_REPRESENTATION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="SHAPE_REPRESENTATION">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>SHAPE_REPRESENTATION</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="SHAPE_REPRESENTATION_RELATIONSHIP">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>SHAPE_REPRESENTATION_RELATIONSHIP</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="SI_UNIT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>SI_UNIT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="SOLID_ANGLE_UNIT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>SOLID_ANGLE_UNIT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="STYLED_ITEM">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STYLED_ITEM</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="SURFACE_SIDE_STYLE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>SURFACE_SIDE_STYLE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="SURFACE_STYLE_FILL_AREA">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>SURFACE_STYLE_FILL_AREA</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="SURFACE_STYLE_USAGE">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>SURFACE_STYLE_USAGE</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="UNCERTAINTY_MEASURE_WITH_UNIT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>UNCERTAINTY_MEASURE_WITH_UNIT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="VECTOR">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>VECTOR</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1919</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="VERTEX_POINT">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>VERTEX_POINT</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2086</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Total">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Total</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>41457</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="1" pointer="TRUE" tag="NULL">
+                    <name>NULL</name>
+                    <item__PO__attr__PC__ pointer="TRUE" tag="Reading finished at:">
+                        <name pointer="TRUE" type="9">
+                            <value__PO__ws_val__PC__>Reading finished at:</value__PO__ws_val__PC__>
+                        </name>
+                        <value pointer="TRUE" type="14">
+                            <value__PO__pt_val__PC__ tm_hour="12" tm_mday="4" tm_min="29" tm_mon="2" tm_sec="57" tm_year="120"/>
+                        </value>
+                    </item__PO__attr__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="1" pointer="TRUE" tag="NULL">
+                    <name>NULL</name>
+                    <item__PO__attr__PC__ pointer="TRUE" tag="Total reading time:">
+                        <name pointer="TRUE" type="9">
+                            <value__PO__ws_val__PC__>Total reading time:</value__PO__ws_val__PC__>
+                        </name>
+                        <value pointer="TRUE" type="14">
+                            <value__PO__pt_val__PC__ tm_hour="0" tm_mday="1" tm_min="0" tm_mon="0" tm_sec="1" tm_year="70"/>
+                        </value>
+                    </item__PO__attr__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="4" pointer="TRUE" tag="Geometry Reading">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Geometry Reading</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__item_set__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <items SOAP-ENC:Array="[1]">
+                            <items_ENTRY item_type="3" pointer="TRUE" tag="Pre-processing information of model">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Preprocessing information of model:</value__PO__ws_val__PC__>
+                                </name>
+                                <item__PO__ent_set__PC__ pointer="TRUE" tag="NULL">
+                                    <name pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__>Raspberry_pi_3B__model_v10</value__PO__cs_val__PC__>
+                                    </name>
+                                    <ents SOAP-ENC:Array="[2]">
+                                        <ents_ENTRY pointer="TRUE" tag="One Pre-processing entity">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[3]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Entity id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>41433</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type_name">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Entity type name</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="6">
+                                                        <value__PO__cs_val__PC__>PRODUCT</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Comment</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Character not allowed in Creo Parametric model name was changed to '_'.</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="Table columns">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[3]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Entity id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type_name">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Entity type name</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Comment</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                    </ents>
+                                </item__PO__ent_set__PC__>
+                            </items_ENTRY>
+                        </items>
+                    </item__PO__item_set__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="1" pointer="TRUE" tag="NULL">
+                    <name>NULL</name>
+                    <item__PO__attr__PC__ pointer="TRUE" tag="Pre-processing finished at:">
+                        <name pointer="TRUE" type="9">
+                            <value__PO__ws_val__PC__>Preprocessing finished at:</value__PO__ws_val__PC__>
+                        </name>
+                        <value pointer="TRUE" type="14">
+                            <value__PO__pt_val__PC__ tm_hour="12" tm_mday="4" tm_min="29" tm_mon="2" tm_sec="57" tm_year="120"/>
+                        </value>
+                    </item__PO__attr__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="1" pointer="TRUE" tag="NULL">
+                    <name>NULL</name>
+                    <item__PO__attr__PC__ pointer="TRUE" tag="Total pre-processing time:">
+                        <name pointer="TRUE" type="9">
+                            <value__PO__ws_val__PC__>Total preprocessing time:</value__PO__ws_val__PC__>
+                        </name>
+                        <value pointer="TRUE" type="14">
+                            <value__PO__pt_val__PC__ tm_hour="0" tm_mday="1" tm_min="0" tm_mon="0" tm_sec="1" tm_year="70"/>
+                        </value>
+                    </item__PO__attr__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="1" pointer="TRUE" tag="NULL">
+                    <name>NULL</name>
+                    <item__PO__attr__PC__ pointer="TRUE" tag="Processing finished at:">
+                        <name pointer="TRUE" type="9">
+                            <value__PO__ws_val__PC__>Processing finished at:</value__PO__ws_val__PC__>
+                        </name>
+                        <value pointer="TRUE" type="14">
+                            <value__PO__pt_val__PC__ tm_hour="12" tm_mday="4" tm_min="29" tm_mon="2" tm_sec="57" tm_year="120"/>
+                        </value>
+                    </item__PO__attr__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="1" pointer="TRUE" tag="NULL">
+                    <name>NULL</name>
+                    <item__PO__attr__PC__ pointer="TRUE" tag="Total processing time:">
+                        <name pointer="TRUE" type="9">
+                            <value__PO__ws_val__PC__>Total processing time:</value__PO__ws_val__PC__>
+                        </name>
+                        <value pointer="TRUE" type="14">
+                            <value__PO__pt_val__PC__ tm_hour="0" tm_mday="1" tm_min="0" tm_mon="0" tm_sec="0" tm_year="70"/>
+                        </value>
+                    </item__PO__attr__PC__>
+                </items_ENTRY>
+            </items>
+        </item__PO__item_set__PC__>
+    </item>
+</XML_DOCUMENT>
