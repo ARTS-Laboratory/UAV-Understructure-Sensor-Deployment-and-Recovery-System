@@ -12,3 +12,16 @@ Software include:
 overview:
 The system is designed to take in user input directly from a PWM 2.4 GHz receiver and issue commands to the
 two electropermanent magnets securing the package either to the UAV or the structure on demand.
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Cite as:
+
+@Misc{Satme2023, author = {Joud Satme and Austin Downey},
+howpublished = {GitHub},
+month = aug,
+title = {UAV Sensor Package Delivery System}, year = {2023},
+groups = {ARTS-Lab},
+url = {https://github.com/ARTS-Laboratory/UAV-Package-Delivery-System},
+}
