@@ -13,7 +13,7 @@ overview:
 The system is designed to take in user input directly from a PWM 2.4 GHz receiver and issue commands to the
 two electropermanent magnets securing the package either to the UAV or the structure on demand.
 
-![image](https://user-images.githubusercontent.com/53347740/182440984-38dd63a6-50cf-4d38-ae96-b3283200794e.png)
+![UAV deployment](https://user-images.githubusercontent.com/53347740/182452914-5f66372c-e8df-4d06-8e36-cec97556988f.png)
 
 
 ## Licensing and Citation
