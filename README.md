@@ -14,6 +14,7 @@ The system is designed to take in user input directly from a PWM 2.4 GHz receive
 two electropermanent magnets securing the package either to the UAV or the structure on demand.
 
 ![UAV deployment](https://user-images.githubusercontent.com/53347740/182452914-5f66372c-e8df-4d06-8e36-cec97556988f.png)
+
 UAV deployment of a sensor package
 
 
@@ -32,10 +33,10 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{Satme2022, author = {Joud Satme and Austin Downey},
-howpublished = {GitHub},
-month = aug,
-title = {UAV Sensor Package Delivery System}, year = {2022},
-groups = {ARTS-Lab},
-url = {https://github.com/ARTS-Laboratory/UAV-Package-Delivery-System},
+@Misc{Satme2022, author = {Joud Satme and Austin Downey},  
+howpublished = {GitHub},  
+month = aug,  
+title = {UAV Sensor Package Delivery System}, year = {2022},  
+groups = {ARTS-Lab},  
+url = {https://github.com/ARTS-Laboratory/UAV-Package-Delivery-System},  
 }
