@@ -14,13 +14,8 @@ The system is designed to take in user input directly from a PWM 2.4 GHz receive
 two electropermanent magnets securing the package either to the UAV or the structure on demand.
 
 ![UAV deployment](https://user-images.githubusercontent.com/53347740/182452914-5f66372c-e8df-4d06-8e36-cec97556988f.png)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/53347740/182452914-5f66372c-e8df-4d06-8e36-cec97556988f.png" alt="drawing" width="300"/>
-</p>
-<p align="center">
 UAV deployment of a sensor package
-</p>
+
 
 
 ## Licensing and Citation
