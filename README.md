@@ -16,7 +16,7 @@ two electropermanent magnets securing the package either to the UAV or the struc
 ![UAV deployment](https://user-images.githubusercontent.com/53347740/182452914-5f66372c-e8df-4d06-8e36-cec97556988f.png)
 
 <p align="center">
-<img src="[images/IMG_6939 2.JPG](https://user-images.githubusercontent.com/53347740/182452914-5f66372c-e8df-4d06-8e36-cec97556988f.png)" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/53347740/182452914-5f66372c-e8df-4d06-8e36-cec97556988f.png" alt="drawing" width="300"/>
 </p>
 <p align="center">
 UAV deployment of a sensor package
