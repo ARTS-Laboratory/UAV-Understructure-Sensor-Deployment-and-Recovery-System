@@ -33,12 +33,6 @@ Figure 2: The UAV Sensor Package Delivery System.
 
 
 
-<x-model src="media/DronePackage_Model.obj"></x-model>
-<p align="center">
-Figure 3: 3D Model of theUAV Sensor Package Delivery System. 
-</p>
-
-
 
 
 
