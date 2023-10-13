@@ -10,37 +10,35 @@ UAV sensor package deployment and retrieval system using electropermanent magnet
 2. Arduino code for NRF24L01 wireless receiver
 
 
-## overview:
+## Overview:
 The system is designed to take in user input directly from a PWM 2.4 GHz receiver and issue commands to the two electropermanent magnets securing the package either to the UAV or the structure on demand.
 
+
+
 <p align="center">
-<a <img src="media/UAV.jpg" alt="Shock test impact testing" width="800"></a>  
+<img src="media/UAV.jpg" alt="drawing" width="600"/>
 </p>
 <p align="center">
-Figure 1: Inage of the test, showing: (a) the shock tests sytem, (b) front view of the test setup on the drop table, and (c) side view of the test setup on the drop table. (click the image to view a video of the test on YouTube). 
+Figure 1: Sensor package deployment under a pedestrian bridge using the UAV Sensor Package Delivery System and showing sensor package and electropermanent magnet configuration.
 </p>
 
 
 
-
-
+<p align="center">
+<img src="media/system.jpg" alt="drawing" width="350"/>
+</p>
+<p align="center">
+Figure 2: The UAV Sensor Package Delivery System. 
+</p>
 
 
 
 <x-model src="media/DronePackage_Model.obj"></x-model>
-
-
-
 <p align="center">
-<a <img src="media/system.jpg" alt="Shock test impact testing" width="800"></a>  
-</p>
-<p align="center">
-Figure 1: Inage of the test, showing: (a) the shock tests sytem, (b) front view of the test setup on the drop table, and (c) side view of the test setup on the drop table. (click the image to view a video of the test on YouTube). 
+Figure 3: 3D Model of theUAV Sensor Package Delivery System. 
 </p>
 
 
-
-UAV deployment of a sensor package
 
 
 
