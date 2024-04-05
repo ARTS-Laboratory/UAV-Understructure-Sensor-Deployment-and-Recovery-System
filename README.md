@@ -51,7 +51,7 @@ This work is licensed under a
 Cite as:
 
 @Misc{SatmeUAVSensorPackage,  
-author = {Joud Satme and Austin Downey},  
+author = {Joud Satme and Ryan Yount and Austin Downey},  
 howpublished = {GitHub},  
 month = aug,  
 title = {{UAV} Sensor Package Delivery System},  
