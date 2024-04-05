@@ -50,11 +50,11 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{Satme2022UAVSensorPackage,  
+@Misc{SatmeUAVSensorPackage,  
 author = {Joud Satme and Austin Downey},  
 howpublished = {GitHub},  
 month = aug,  
-title = {{UAV} Sensor Package Delivery System}, year = {2022},  
+title = {{UAV} Sensor Package Delivery System},  
 groups = {ARTS-Lab},  
 url = {https://github.com/ARTS-Laboratory/UAV-Package-Delivery-System},  
 }
