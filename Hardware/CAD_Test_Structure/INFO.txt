@@ -1,0 +1,4 @@
+The structure as well as all models used to construct it in Fusion360 are in the f3z file including:
+-  4x4in, 6ft Beam
+-  80/20, 4040 Beam
+-  4040A Angle Bracket
