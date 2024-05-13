@@ -50,11 +50,10 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{SatmeUAVSensorPackage,  
-author = {Joud Satme and Ryan Yount and Austin Downey},  
-howpublished = {GitHub},  
-month = aug,  
-title = {{UAV} Sensor Package Delivery System},  
-groups = {ARTS-Lab},  
-url = {https://github.com/ARTS-Laboratory/UAV-Package-Delivery-System},  
+@Misc{ARTSLabUavSensorPackage,    
+  author = {ARTS-Lab},  
+  howpublished = {GitHub},  
+  title  = {{UAV} Sensor Package Delivery System},
+  groups = {ARTS-Lab},    
+  url    = {https://github.com/ARTS-Laboratory/UAV-Package-Delivery-System},   
 }
