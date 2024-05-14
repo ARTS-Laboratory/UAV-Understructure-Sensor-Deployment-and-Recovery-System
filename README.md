@@ -11,6 +11,8 @@ Software include:
 1. Arduino code for NRF24L01 wireless transmitter
 2. Arduino code for NRF24L01 wireless receiver
 
+## Media
+Diagrams showing the deployment mechanism with key components annotated.
 
 ## Overview:
 The system is designed to take in user input directly from a PWM 2.4 GHz receiver and issue commands to the two electropermanent magnets securing the package either to the UAV or the structure on demand.
