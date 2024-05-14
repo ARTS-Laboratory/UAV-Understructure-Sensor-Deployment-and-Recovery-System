@@ -53,7 +53,7 @@ Cite as:
 @Misc{ARTSLabUavSensorPackage,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title  = {{UAV} Sensor Package Delivery System},
+  title  = {{UAV} Sensor Package Delivery System},   
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/UAV-Package-Delivery-System},   
 }
