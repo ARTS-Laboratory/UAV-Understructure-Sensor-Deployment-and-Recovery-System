@@ -1,4 +1,4 @@
-# UAV-Sensor-Package-Delivery-System
+# UAV-Understructure-Sensor-Deployment-and-Recovery-System
 UAV sensor package deployment and retrieval system using electropermanent magnets
 
 
@@ -52,10 +52,10 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{ARTSLabUavSensorPackage,    
+@Misc{ARTSLabUavUnderstructureSensor,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title  = {{UAV} Sensor Package Delivery System},   
+  title  = {{UAV} Understructure Sensor Deployment and Recovery System},   
   groups = {ARTS-Lab},    
-  url    = {https://github.com/ARTS-Laboratory/UAV-Package-Delivery-System},   
+  url    = {https://github.com/ARTS-Laboratory/UAV-Understructure-Sensor-Deployment-and-Recovery-System},   
 }
