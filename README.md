@@ -1,4 +1,4 @@
-# UAV-Understructure-Sensor-Deployment-and-Recovery-System
+# UAV Understructure Sensor Deployment and Recovery System
 UAV sensor package deployment and retrieval system using electropermanent magnets
 
 
