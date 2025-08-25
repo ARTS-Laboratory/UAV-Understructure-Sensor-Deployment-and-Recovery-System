@@ -11,7 +11,14 @@ This is a dummy package that only contains electronics to activate the onboard E
 CAD model fo the package.
 </p>
 
-Hardware:
+
+<p align="center">
+<img src="Media/Hardware_connection.jpg" alt="drawing" width="800"/>
+</p>
+<p align="center">
+Hardware connection diagram.
+</p>
+
 
 
 
