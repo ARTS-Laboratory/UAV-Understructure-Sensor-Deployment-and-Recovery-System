@@ -5,7 +5,7 @@ This is a dummy package that only contains electronics to activate the onboard E
 ## System design:
 
 <p align="center">
-<img src="Media/CAD_model.png" alt="drawing" width="600"/>
+<img src="Media/CAD_model.png" alt="drawing" width="300"/>
 </p>
 <p align="center">
 CAD model fo the package.
