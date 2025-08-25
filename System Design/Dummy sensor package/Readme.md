@@ -8,7 +8,7 @@ This is a dummy package that only contains electronics to activate the onboard E
 <img src="Media/CAD_model.png" alt="drawing" width="300"/>
 </p>
 <p align="center">
-CAD model fo the package.
+CAD model of the package.
 </p>
 
 
